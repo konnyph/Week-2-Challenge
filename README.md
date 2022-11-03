@@ -22,7 +22,8 @@ AS AN employer
 My employer to view my potential deployed portfolio of work samples
 SO THAT he/she can review samples of my work and assess whether I'm a good candidate for an open position
 ```
-
+# Deploy Link: 
+https://konnyph.github.io/week-2-challenge/ 
 
 
 
